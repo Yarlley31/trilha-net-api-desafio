@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrilhaApiDesafio", "TrilhaApiDesafio.csproj", "{DE9FB547-5A84-40DB-8691-D638182FD81B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE9FB547-5A84-40DB-8691-D638182FD81B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE9FB547-5A84-40DB-8691-D638182FD81B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE9FB547-5A84-40DB-8691-D638182FD81B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE9FB547-5A84-40DB-8691-D638182FD81B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {686CC80A-B8CF-4FCA-8687-D18E298BF36F}
+	EndGlobalSection
+EndGlobal
